@@ -1,3 +1,4 @@
+# To Do
 * bmon
 * iptraf-ng
 * iperf3
@@ -5,3 +6,15 @@
 * duf
 * rescuezilla
 * [phoronix](https://www.phoronix-test-suite.com/)
+* lsof
+* netstat
+* ss
+* iptables
+* curl
+* grep
+* ps
+* htop
+* ip
+* df
+* du
+* dig
