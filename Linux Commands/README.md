@@ -18,3 +18,4 @@
 * df
 * du
 * dig
+* nala
