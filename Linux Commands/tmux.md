@@ -34,5 +34,13 @@ tmux ls
 - `Ctrl+b` `arrow-left`
 - `Ctrl+b` `arrow-right`
 
+**Scroll Up**
+
+`Ctrl+b` `[` `arrow-key`
+
+**Exit Scroll Mode**
+
+`q`
+
 ## Additional Information
 - https://tmuxcheatsheet.com/
