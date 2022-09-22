@@ -19,5 +19,4 @@
 * du
 * dig
 * nala
-* tmux
 * mosh
