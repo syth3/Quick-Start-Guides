@@ -27,6 +27,10 @@ tmux ls
 
 `Ctrl+b` `%`
 
+**Resize Pane**
+
+`Ctrl+b+<arrow_key>`
+
 **Switch Active Pannel**
 
 `Ctrl+b` `arrow-key`
