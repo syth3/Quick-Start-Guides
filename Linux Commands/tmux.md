@@ -42,5 +42,17 @@ tmux ls
 
 `q`
 
+**Open New Window**
+
+`Ctrl+b` `c`
+
+**Switch Window by Number**
+
+`Ctrl+b` `<number 0-9>`
+
+**Rename Window**
+
+`Ctrl+b` `,`
+
 ## Additional Information
 - https://tmuxcheatsheet.com/
