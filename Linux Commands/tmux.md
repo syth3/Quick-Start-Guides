@@ -36,7 +36,7 @@ tmux ls
 
 **Scroll Up**
 
-`Ctrl+b` `[` `arrow-key`
+`Ctrl+b` `[` `arrow-key` or `Ctrl+b` `[` `PgUp/PgDn`
 
 **Exit Scroll Mode**
 
