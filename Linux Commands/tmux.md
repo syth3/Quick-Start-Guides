@@ -29,10 +29,10 @@ tmux ls
 
 **Switch Active Pannel**
 
-`Ctrl+b` `arrow-up`
-`Ctrl+b` `arrow-dowm`
-`Ctrl+b` `arrow-left`
-`Ctrl+b` `arrow-right`
+- `Ctrl+b` `arrow-up`
+- `Ctrl+b` `arrow-dowm`
+- `Ctrl+b` `arrow-left`
+- `Ctrl+b` `arrow-right`
 
 ## Additional Information
 - https://tmuxcheatsheet.com/
